@@ -1,0 +1,4 @@
+~~~~~~Idée de fonctionnalités à implémenter dans le projet snapface~~~~~~
+
+- connexion déconnexion 
+- commentaire 
